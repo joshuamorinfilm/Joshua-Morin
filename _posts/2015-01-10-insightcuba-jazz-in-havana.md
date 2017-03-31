@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Ultimate
+title: Jazz In Havana
 desc: Another excerpt or project description goes here
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 07
