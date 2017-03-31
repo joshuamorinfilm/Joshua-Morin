@@ -142,7 +142,7 @@ h1 a:hover {
   letter-spacing: -.03em;
 }
 #home h1.site-name a {
-  color: #fff;
+  color: #555;
 }
 @media screen and (max-width: 640px) {
   #home h1.site-name {
