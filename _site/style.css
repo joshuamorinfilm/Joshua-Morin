@@ -64,7 +64,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #000;
   font: 16px/23px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #777;
   -webkit-font-smoothing: antialiased;
@@ -142,7 +142,7 @@ h1 a:hover {
   letter-spacing: -.03em;
 }
 #home h1.site-name a {
-  color: #555;
+  color: #FFE;
 }
 @media screen and (max-width: 640px) {
   #home h1.site-name {
