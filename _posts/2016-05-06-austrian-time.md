@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Austrian Time
+title: Tourism Austria
 desc: 
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 07
