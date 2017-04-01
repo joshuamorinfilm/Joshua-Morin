@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subaru Zero Landfill
+title: Subaru / Matador Network
 desc: ???
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 03
