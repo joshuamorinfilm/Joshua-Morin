@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pure Michigan
+title: Tourism Michigan
 desc: A one week journey through Northern Michigan. Filmed for the Michigan tourism board (Pure Michigan).
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 04
