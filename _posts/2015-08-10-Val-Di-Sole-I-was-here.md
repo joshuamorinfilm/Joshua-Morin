@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Italy Tourism
+title: Tourism Italy
 desc: ???
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 04
