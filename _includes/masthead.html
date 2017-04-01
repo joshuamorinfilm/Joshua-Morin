@@ -8,9 +8,11 @@
           <nav>
             <!--<a href="{{ site.baseurl }}/about">About</a>-->
           </nav>
-            <nav>
+          {% if page.title != "Home" %}
+          <nav>
             <a href="{{ site.baseurl }}">Home</a>
           </nav>
+          {% endif %}
         </header>
       </div>
     </div>
