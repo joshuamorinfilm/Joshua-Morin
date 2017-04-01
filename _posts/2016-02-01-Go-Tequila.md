@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tourism Mexico / National Geographic
+title: Tourism Mexico / NatGeo
 desc: ???
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 05
