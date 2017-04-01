@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chaco Footwear - Hawaii
+title: Chaco Footwear
 desc: Another excerpt or project description goes here
 proj-url: https://github.com/femmebot/jekyll-grid
 proj-num: 08
