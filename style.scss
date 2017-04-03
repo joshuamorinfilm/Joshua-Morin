@@ -48,7 +48,8 @@ h1 {
   font-size: 60px;
   margin: 60px 0;
   a {
-    color: $red;
+    /*color: $red;*/
+    color: #555;	  
     &:hover {
       color: $darkRed;
     }
@@ -75,7 +76,7 @@ h1 {
 }
 
 #home .post h1 {
-  font-size: 24px;
+  font-size: 16px;
   line-height: 1.2;
   /*min-height: 60px;*/
   margin: 0 0 12px;
@@ -85,9 +86,9 @@ h1 {
 
 #home h1.site-name {
   font-family: Montserrat, sans-serif;
-  font-size: 72px;
-  line-height: 74px;
-  font-weight: 700;
+  font-size: 60px;
+  line-height: 40px;
+  font-weight: 900;
   max-width: 600px;
   margin-top: 30px;
   margin-bottom: 20px;
@@ -121,7 +122,7 @@ p {
 }
 
 #home p.site-description {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 40px;
   /*max-width: 310px;*/
