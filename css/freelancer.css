@@ -460,8 +460,11 @@ footer {
   .vimeosettings { width: 200px;
 height: 45px;}}
 
+@media (min-width: 768px) {
 	.vimeosettings {
 	width: 640px;
 	height: 360px;
-}
+}}
+
+
 /*	width="640" height="360"*/
