@@ -455,9 +455,13 @@ footer {
 .btn:focus {
   outline: none; }
 
-  
-.vimeosettings {
-/*	width: 80%;
-	height: 45%;*/
+
+@media (max-width: 767px) {
+  .vimeosettings { width: 200px;
+height: 45px;}}
+
+	.vimeosettings {
+	width: 640px;
+	height: 360px;
 }
 /*	width="640" height="360"*/
