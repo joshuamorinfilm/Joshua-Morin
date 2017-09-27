@@ -456,8 +456,8 @@ footer {
   outline: none; }
 
   
-.vimeo {
-	width: 400px;
-	height: 200px;
+.vimeosettings {
+	width: 80%;
+	height: 45%;
 }
 /*	width="640" height="360"*/
