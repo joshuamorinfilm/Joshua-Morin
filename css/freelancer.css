@@ -454,3 +454,10 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+  
+.vimeo {
+	width: 400px;
+	height: 200px;
+}
+/*	width="640" height="360"*/
