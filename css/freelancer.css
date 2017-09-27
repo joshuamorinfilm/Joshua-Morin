@@ -457,8 +457,8 @@ footer {
 
 
 @media (max-width: 767px) {
-  .vimeosettings { width: 200px;
-height: 45px;}}
+  .vimeosettings { width: 250px;
+height: 150px;}}
 
 @media (min-width: 768px) {
 	.vimeosettings {
