@@ -79,8 +79,6 @@ section.success {
 
 @media (max-width: 767px) {
 	header.masthead {
-    /* padding-top: 110px; */
-    /* padding-bottom: 100px; } */
     header.masthead .intro-text .name {
       font-size: 4.75em; }
     header.masthead .intro-text .skills {
