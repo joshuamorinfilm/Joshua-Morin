@@ -78,6 +78,16 @@ section.success {
   background: #18BC9C; }
 
 @media (max-width: 767px) {
+	header.masthead {
+    /* padding-top: 110px; */
+    /* padding-bottom: 100px; } */
+    header.masthead .intro-text .name {
+      font-size: 4.75em; }
+    header.masthead .intro-text .skills {
+      font-size: 1.75em; } }
+	  
+	  
+	  
   section {
     padding: 75px 0; }
   section.first {
