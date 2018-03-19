@@ -88,7 +88,7 @@ section.success {
     header.masthead .intro-text .skills {
       font-size: 1.75em; } 
 	 
-	#bannervideo { display: none; } }
+	video.bannervideo { display: none; } }
 	  
   section {
     padding: 25px 0; }
