@@ -83,17 +83,10 @@ section.success {
     header.masthead .intro-text .name {
       font-size: 4.75em; }
     header.masthead .intro-text .skills {
-      font-size: 1.75em; } }
-	  
-	  
-	  
-    #masthead {
-        background: url('img/videoframe.jpg') #000!important;
+      font-size: 1.75em; } 
+	    background: url('img/videoframe.jpg') #000!important;
         background-size: cover;
-    }
-    #video { display: none; } 
-	  
-	  
+	#video { display: none; } }
 	  
   section {
     padding: 25px 0; }
