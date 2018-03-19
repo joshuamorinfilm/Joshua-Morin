@@ -80,7 +80,7 @@ section.success {
 
 @media (max-width: 767px) {
 	header.masthead {
-       background: url('img/videoframe.jpg') #000!important;
+       background: url('../img/videoframe.jpg') #000!important;
         background-size: cover;
 	
 	header.masthead .intro-text .name {
@@ -88,7 +88,7 @@ section.success {
     header.masthead .intro-text .skills {
       font-size: 1.75em; } 
 	 
-	.video { display: none; } }
+	#bannervideo { display: none; } }
 	  
   section {
     padding: 25px 0; }
