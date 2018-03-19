@@ -87,6 +87,14 @@ section.success {
 	  
 	  
 	  
+    #masthead {
+        background: url('img/videoframe.jpg') #000!important;
+        background-size: cover;
+    }
+    #video { display: none; } 
+	  
+	  
+	  
   section {
     padding: 25px 0; }
   section.first {
@@ -201,12 +209,6 @@ header.masthead {
     header.masthead .intro-text .skills {
       font-size: 1.75em; } }
 
-	  
-    #masthead {
-        background: url('img/videoframe.jpg') #000!important;
-        background-size: cover;
-    }
-    #video { display: none; }
 }
 	  
 	  
