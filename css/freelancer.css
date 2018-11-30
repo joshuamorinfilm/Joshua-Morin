@@ -162,7 +162,12 @@ section.success {
     padding-top: 10px;
     padding-bottom: 10px; }
     #mainNav.navbar-shrink .navbar-brand {
-      font-size: 1.5em; } }
+      font-size: 1.5em; } 
+	  
+	.vimeosettings {
+	width: 640px;
+	height: 480px;
+	} }
 
 header.masthead {
   padding-top: 55px;
@@ -480,7 +485,5 @@ footer {
 }
 
 
-.vimeosettings {
-	width: 600px;
-}
+
 /*	width="640" height="360"*/
