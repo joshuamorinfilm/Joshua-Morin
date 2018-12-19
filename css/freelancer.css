@@ -209,16 +209,16 @@ header.masthead {
 	  
 	  
 	  
-#portfolio .portfolio-item, #branded .portfolio-item, #tourism .portfolio-item, #personal .portfolio-item{
+#portfolio .portfolio-item, #branded .portfolio-item, #tourism .portfolio-item, #personal .portfolio-item {
   right: 0;
   margin: 0 0 15px; }
-  #portfolio #branded #tourism #personal .portfolio-item .portfolio-link {
+  #portfolio .portfolio-item .portfolio-link, #branded .portfolio-item .portfolio-link, #tourism .portfolio-item .portfolio-link, #personal .portfolio-item .portfolio-link {
     position: relative;
     display: block;
     max-width: 400px;
     margin: 0 auto;
     cursor: pointer; }
-    #portfolio #branded #tourism #personal .portfolio-item .portfolio-link .caption {
+    #portfolio .portfolio-item .portfolio-link .caption, #branded .portfolio-item .portfolio-link .caption, #tourism .portfolio-item .portfolio-link .caption, #personal .portfolio-item .portfolio-link .caption {
       position: absolute;
       width: 100%;
       height: 100%;
@@ -227,9 +227,9 @@ header.masthead {
       transition: all ease 0.5s;
       opacity: 0;
       background: rgba(24, 188, 156, 0.9); }
-      #portfolio #branded #tourism #personal .portfolio-item .portfolio-link .caption:hover {
+      #portfolio .portfolio-item .portfolio-link .caption:hover, #branded .portfolio-item .portfolio-link .caption:hover, #tourism .portfolio-item .portfolio-link .caption:hover, #personal .portfolio-item .portfolio-link .caption:hover {
         opacity: 1; }
-      #portfolio #branded #tourism #personal .portfolio-item .portfolio-link .caption .caption-content {
+      #portfolio .portfolio-item .portfolio-link .caption .caption-content, #branded .portfolio-item .portfolio-link .caption .caption-content, #tourism .portfolio-item .portfolio-link .caption .caption-content, #personal .portfolio-item .portfolio-link .caption .caption-content {
         font-size: 16px;
         position: absolute;
         top: 25%;
