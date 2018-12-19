@@ -238,17 +238,17 @@ header.masthead {
         margin-top: -12px;
         text-align: center;
         color: white; }
-        #portfolio #branded #tourism #personal .portfolio-item .portfolio-link .caption .caption-content i {
+        #portfolio .portfolio-item .portfolio-link .caption .caption-content, #branded .portfolio-item .portfolio-link .caption .caption-content, #tourism .portfolio-item .portfolio-link .caption .caption-content, #personal .portfolio-item .portfolio-link .caption .caption-content i {
           margin-top: -12px; }
-        #portfolio #branded #tourism #personal .portfolio-item .portfolio-link .caption .caption-content h3,
-        #portfolio #branded #tourism #personal .portfolio-item .portfolio-link .caption .caption-content h4 {
+        #portfolio .portfolio-item .portfolio-link .caption .caption-content h3, #branded .portfolio-item .portfolio-link .caption .caption-content h3, #tourism .portfolio-item .portfolio-link .caption .caption-content h3, #personal .portfolio-item .portfolio-link .caption .caption-content h3,
+        #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 , #branded .portfolio-item .portfolio-link .caption .caption-content h4 , #tourism .portfolio-item .portfolio-link .caption .caption-content h4 , #personal .portfolio-item .portfolio-link .caption .caption-content h4 {
           margin: 0; }
 
 #portfolio #branded #tourism #personal * {
   z-index: 2; }
 
 @media (min-width: 767px) {
-  #portfolio #branded #tourism #personal .portfolio-item {
+  #portfolio .portfolio-item, #branded .portfolio-item, #tourism .portfolio-item, #personal .portfolio-item {
     margin: 0 0 30px; } }
 
 .portfolio-modal .modal-dialog {
