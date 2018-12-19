@@ -81,7 +81,7 @@ section.success {
   background: #18BC9C; }
   
 .modal-content {
-	background: #fff !important; }
+	background: #333 !important; }
   
 @media (max-width: 767px) {
 	header.masthead {
