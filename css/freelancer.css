@@ -485,8 +485,9 @@ footer {
 .fullscreen-bg__video {
     width: 100%;
 }
-.right {
+.more {
 	float:right;
+	padding:top 2px;
 }
 
 
