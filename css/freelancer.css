@@ -130,7 +130,7 @@ section.success {
     outline: none; }
   #mainNav .navbar-brand {
     font-family: 'Chokle';
-	font-size: 3em;
+	font-size: 4em;
     color: white; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: white; }
