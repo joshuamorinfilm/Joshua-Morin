@@ -84,14 +84,6 @@ section.success {
 	background: #333 !important; }
   
   
-@font-face {
-    font-family: 'Chokle';
-    src: url('../fonts/Chokle.otf');
-    font-weight: normal;
-    font-style: normal;
-}  
-  
-  
 @media (max-width: 767px) {
 	header.masthead {
 	header.masthead .intro-text .name {
@@ -129,7 +121,6 @@ section.success {
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
-    font-family: 'Chokle';
 	font-size: 2.5em;
     color: white; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
